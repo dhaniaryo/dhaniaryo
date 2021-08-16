@@ -3,7 +3,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently a Junior Back-end Web Programmer;
-- 🌱 I’m currently learning Flutter and Laravel; 
+- 🌱 I’m currently learning Flutter, React and Laravel; 
 - 🤔 My interests are with Framework;
 - 📫 Please contact email via dhaniaryo.yp@gmail.com to reach me.
 
